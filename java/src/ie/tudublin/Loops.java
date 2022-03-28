@@ -2,7 +2,9 @@ package ie.tudublin;
 
 import processing.core.PApplet;
 
-public class Loops extends PApplet {
+public class Loops extends PApplet
+{
+
 
 	int mode = 0;
 

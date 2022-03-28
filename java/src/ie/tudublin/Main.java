@@ -14,10 +14,10 @@ public class Main
         processing.core.PApplet.runSketch( a, new BugZap());
     }
 
-    public static void loops()
+    public static void Audio1()
 	{
 		String[] a = {"MAIN"};
-        processing.core.PApplet.runSketch( a, new Loops());
+        processing.core.PApplet.runSketch( a, new Audio1());
     }
 
     public void cat()
@@ -45,7 +45,7 @@ public class Main
     }
     public static void main(String[] args)
     {
-        loops();
+        Audio1();
 
         // Tara Misty
         // Tara Tara
